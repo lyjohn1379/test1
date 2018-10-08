@@ -1,1 +1,1 @@
-print("欢迎来到pyton")
+print("欢迎来到python")
